@@ -29,8 +29,6 @@ For the video demo, please click the image below:
 WeatherApp_PRO
 ==============
 
-Overview:
-
 Designed Activities, Fragments, reading JSON file, word process, saved on phone.
 
 Using GPS to get your location, then obtain the data from the weather JSON, word process. If push the refresh button, it will refresh the latitude, longitude, relocation your position, and refresh the data.
